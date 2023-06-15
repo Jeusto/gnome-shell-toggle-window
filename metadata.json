@@ -1,0 +1,9 @@
+{
+  "name": "Toggle window",
+  "description": "",
+  "uuid": "toggle-window@jeusto.com",
+  "url": "https://github.com/jeusto/gnome-shell-toggle-window",
+  "settings-schema": "org.gnome.shell.extensions.toggle-window",
+  "shell-version": ["3.38", "40", "41", "42", "43", "44"],
+  "version": 0
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+	<schema id="org.gnome.shell.extensions.toggle-window" path="/org/gnome/shell/extensions/toggle-window/">
+		<key name="toggle-key" type="as">
+			<default><![CDATA[['<Alt>Z']]]></default>
+			<summary>Toggle key</summary>
+		</key>
+		<key name="command" type="s">
+			<default>'/usr/bin/gnome-terminal'</default>
+			<summary>Set the window command</summary>
+			<description></description>
+		</key>
+	</schema>
+</schemalist>
